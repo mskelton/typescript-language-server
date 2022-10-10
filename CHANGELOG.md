@@ -1,6 +1,18 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [2.1.0](https://github.com/typescript-language-server/typescript-language-server/compare/v2.0.1...v2.1.0) (2022-10-10)
+
+
+### Features
+
+* add workspace implicit project defaults configuration ([#605](https://github.com/typescript-language-server/typescript-language-server/issues/605)) ([c6b3947](https://github.com/typescript-language-server/typescript-language-server/commit/c6b39473ed5343f99434506ee034fd0d45a5364d))
+
+
+### Bug Fixes
+
+* loading progress sometimes getting stuck ([#603](https://github.com/typescript-language-server/typescript-language-server/issues/603)) ([8cf4381](https://github.com/typescript-language-server/typescript-language-server/commit/8cf43810e0ff7a32d3499afc6da2344939b2d6de))
+
 ## [2.0.1](https://github.com/typescript-language-server/typescript-language-server/compare/v2.0.0...v2.0.1) (2022-10-07)
 
 
